@@ -1,3 +1,3 @@
 # YAnder
 
-Discovery and reminder app for Yle Areena
+Discovery and reminder app for Yle Areena.
